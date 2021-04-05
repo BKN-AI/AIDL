@@ -8,7 +8,7 @@ Transformes, Spacy for tet similarity evaluation, gTTs in order to Q&A system sp
 + Computer Vision: U-net based architecture is sued in order to solve the prolem of drawing resotration. The datasset used, was Da Vinci drawings. The framework was Keras on
 on top of Tensorflow, CV2 and PIL packages in order to deploy the images.
 
-+ Speech enhacement: the notebook looks for explore or benchamark the performance of two tasks (noise cleaning and audio classification) considering 
++ Speech enhacement: the notebook looks for explore or benchmark the performance of two tasks (noise cleaning and audio classification) considering 
 two different input formats (1D raw .wav VS 2D melSpectorgram). The code is based on class lab using pytorch framework.
 
 + Reinforcement learning: Continuous control agent was developed, having on mind class lab only covers discrete control. The code is based on class lab using pytorch framework.
